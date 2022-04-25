@@ -1,0 +1,15 @@
+name: bokeh-docusaurus-widgets
+channels:
+  - conda-forge
+dependencies:
+  - bokeh
+  - ipywidgets
+  - jupyter_bokeh
+  - jupyterlab
+  - jupyterlab-katex
+  - jupyterlab-spellchecker
+  - jupyterlab-unfold
+  - jupyterlab_code_formatter
+  - nodejs
+  - pip
+  - yarn
